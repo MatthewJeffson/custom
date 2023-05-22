@@ -4,8 +4,8 @@
   <ShortName>Seeed Studio Wiki</ShortName>
   <Description>Search Seeed Studio Wiki</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://MatthewJeffson/zh-CN/img/S.png</Image>
-  <Url type="text/html" method="get" template="https://MatthewJeffson/zh-CN/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://MatthewJeffson/zh-CN/opensearch.xml" />
-  <moz:SearchForm>https://MatthewJeffson/zh-CN/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://MatthewJeffson.github.io/custom/zh-CN/img/S.png</Image>
+  <Url type="text/html" method="get" template="https://MatthewJeffson.github.io/custom/zh-CN/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://MatthewJeffson.github.io/custom/zh-CN/opensearch.xml" />
+  <moz:SearchForm>https://MatthewJeffson.github.io/custom/zh-CN/</moz:SearchForm>
 </OpenSearchDescription>
